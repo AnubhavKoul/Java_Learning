@@ -13,5 +13,9 @@ public class RandomNumbers {
 		for (int element : arrName) {
 			System.out.println(element);
 		}
+		
+		//method -2 : To use math.random function, math.random doesnpot accept any parameters
+		// value ranges between 0.0 to 1.0
+		System.out.println("-----------------\n"+Math.random());
 	}
 }
