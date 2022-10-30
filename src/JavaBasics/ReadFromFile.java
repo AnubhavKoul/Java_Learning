@@ -1,5 +1,5 @@
 package JavaBasics;
-
+/*In case outputfile.txt is not present in your code. First run "WriteToFile" class. It will create a file in the project and then you can run the current program successfully*/
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
