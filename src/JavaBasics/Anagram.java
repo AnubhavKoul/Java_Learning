@@ -30,3 +30,9 @@ public class Anagram {
 	}
 
 }
+
+/*Response:
+	[a, c, e, r]
+			[a, c, e, r]
+			Strings are Anagram */
+
